@@ -5,7 +5,7 @@
 
 <p align="left">
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href=["[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/AndreyAGB?tab=stars)]">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
