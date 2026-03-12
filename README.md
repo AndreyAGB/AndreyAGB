@@ -1,4 +1,4 @@
-# 👨‍💻 Andrey Almeida
+# Andrey Almeida
 
 **`Desenvolvedor BackEnd`**
 
