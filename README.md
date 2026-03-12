@@ -1,8 +1,7 @@
 # 👨‍💻 Andrey Almeida
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
-Me chamo Andrey Almeida, tenho 14 anos e sou natural do Rio de Janeiro. 
 
 <p align="left">
     </a> 
