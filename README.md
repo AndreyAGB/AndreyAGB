@@ -3,7 +3,6 @@
 **`Desenvolvedor BackEnd`**
 
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
